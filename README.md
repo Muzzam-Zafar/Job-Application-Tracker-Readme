@@ -15,9 +15,6 @@ board, and detailed application view.
 
 ![Job Application Tracker Preview](job-application-tracker.png)
 
-> Add the screenshot above to the public README repository at
-> `screenshots/job-application-tracker.png`.
-
 ## Overview
 
 Managing multiple job applications can become difficult when information
