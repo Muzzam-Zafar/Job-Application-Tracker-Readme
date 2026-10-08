@@ -338,9 +338,6 @@ The application details page brings job information, timeline, recruiter
 details, interview information, attachments, notes, and follow up
 reminders together.
 
-![Dashboard, Applications, Kanban Board, and Application
-Details](screenshots/job-application-tracker.png)
-
 ## Author
 
 ### Muzzam Zafar
