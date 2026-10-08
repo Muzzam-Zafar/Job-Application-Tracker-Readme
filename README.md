@@ -13,8 +13,7 @@ deadlines into one organized workspace.
 The current frontend includes a dashboard, applications table, Kanban
 board, and detailed application view.
 
-![Job Application Tracker
-Preview](screenshots/job-application-tracker.png)
+![Job Application Tracker Preview](job-application-tracker.png)
 
 > Add the screenshot above to the public README repository at
 > `screenshots/job-application-tracker.png`.
